@@ -1,0 +1,24 @@
+{
+  "name": "botween",
+  "version": "1.0.0",
+  "description": "Un bot para botween llamado Ghost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanatics1227/botween.git"
+  },
+  "author": "fanatics1227",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fanatics1227/botween/issues"
+  },
+  "homepage": "https://github.com/fanatics1227/botween#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "zeew": "0.0.64"
+  }
+}
